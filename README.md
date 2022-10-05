@@ -4,7 +4,7 @@
 
 
 Meu primeiro portfolio
-[🔗 Clique aqui para acessar 🔗](https://github.com/IsabelNtanda/tela-login-2d)
+[🔗 Clique aqui para acessar 🔗](https://isabelntanda.github.io/tela-login-2d/)
 
 ## 🔨 Tecnologias 🚀
 
